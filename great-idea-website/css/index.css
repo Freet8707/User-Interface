@@ -80,3 +80,25 @@ a {
 	color: #d2d1d6;
 	margin: 40px;
 }
+.sectionTwo {
+	margin-top: 60px;
+	margin-bottom: 125px;
+	display: inline-block;
+	text-align: center;
+	width: 55%;
+	background-color: lightcoral;
+}
+
+h1 {
+	display: inline-block;
+	font-size: 95px;
+	background-color: red;
+	text-align: center;
+	margin: 0;
+}
+.rightCol {
+	display: inline-block;
+	width: 40%;
+	float: right;
+	background-color: blue;
+}
