@@ -82,23 +82,48 @@ a {
 }
 .sectionTwo {
 	margin-top: 60px;
-	margin-bottom: 125px;
+	margin-bottom: 155px;
 	display: inline-block;
 	text-align: center;
 	width: 55%;
-	background-color: lightcoral;
 }
 
 h1 {
 	display: inline-block;
-	font-size: 95px;
-	background-color: red;
+	font-size: 85px;
 	text-align: center;
 	margin: 0;
 }
 .rightCol {
 	display: inline-block;
-	width: 40%;
+	margin-top: 60px;
+	margin-right: 15%;
 	float: right;
-	background-color: blue;
+}
+.leftCol {
+	color: #7a778c;
+	border: 2px solid gray;
+	border-radius: 10px;
+	padding: 0 25px 0 25px;
+}
+.middle-text {
+	width: 100%;
+	margin: 1%;
+	border-top: 1px solid black;
+	margin-top: 5%;
+}
+.inner-Left {
+	width: 40%;
+	display: inline-block;
+	margin: 3%;
+	border: 1px blue;
+}
+.inner-right { 
+	width: 40%;
+	display: inline-block;
+	margin: 3%;
+	border: 1px green;
+}
+h2{
+	font-size: 20pt;
 }
