@@ -127,3 +127,25 @@ h1 {
 h2{
 	font-size: 20pt;
 }
+.middle-img {
+	width: 100%;
+	align: center;
+}
+.botSection{
+	margin: 0 auto;
+}
+.leftBotSect {
+	display: inline-block;
+	margin-top: 3%;
+	width: 30%;
+}
+.midBotSect {
+	display: inline-block;
+	margin-top: 3%;
+	width: 30%;
+}
+.rightBotSect {
+	display: inline-block;
+	margin-top: 3%;
+	width: 30%;
+}
