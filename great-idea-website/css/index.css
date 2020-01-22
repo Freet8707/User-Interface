@@ -64,3 +64,19 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+header {
+	display: inline-block;
+	width: 100%;
+}
+.links {
+	width: 75%;
+	display: inline-block;
+}
+.logo {
+	width: 23%;
+}
+a {
+	text-decoration: none;
+	color: #d2d1d6;
+	margin: 40px;
+}
