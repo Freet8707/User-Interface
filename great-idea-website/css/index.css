@@ -88,7 +88,7 @@ a {
 	width: 55%;
 }
 
-h1 {
+.sectionTwo h1 {
 	display: inline-block;
 	font-size: 85px;
 	text-align: center;
@@ -103,6 +103,7 @@ h1 {
 .leftCol {
 	color: #7a778c;
 	border: 2px solid gray;
+	margin-top: 20px;
 	border-radius: 10px;
 	padding: 0 25px 0 25px;
 }
@@ -148,4 +149,13 @@ h2{
 	display: inline-block;
 	margin-top: 3%;
 	width: 30%;
+}
+.contactDetails {
+	margin-top: 50px;
+	padding: 30px 0 0 0;
+	border-top: 2px solid gray;
+}
+.copyRight {
+	text-align: center;
+	margin-top: 5%;
 }
