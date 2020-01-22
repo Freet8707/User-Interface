@@ -64,16 +64,27 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+.logo {
+	margin-left: 1100px;
+}
 
 header nav a{
 	display: inline-block;
-	border: 1px solid black;
 	padding-top: 20px;
 	width: 12%;	
+	margin-bottom: 2%;
 	color: #b7b8cc;
-	text-align: center;
+	text-align: right;
 	text-decoration: none;
 }
-.logo {
-	margin-left: 1100px;
+.moveRight{
+	background-color: red;
+	margin-left: 800px;
+}
+.textMod {
+	width: 49%;
+	text-align: center;
+	font-family: 'Bangers';
+	font-size: 75px;
+	background-color: lightskyblue;
 }
